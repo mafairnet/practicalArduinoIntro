@@ -1,7 +1,7 @@
 Practical Arduino Intro
 ============
 
-These files includes some code to start learning how to program an use an Arduino. 
+These files includes some code to start learning how to program and use an Arduino. 
 
 [Source](http://github.com/mafairnet/practicalArduinoIntro)
 
@@ -15,7 +15,7 @@ Features:
 What's new:
 ---------
 
-- These release includes some sketches for Arduino IDE with comments about the code (In Spanish).
+- This release includes some sketches for Arduino IDE with comments about the code (In Spanish).
 
 
 History
